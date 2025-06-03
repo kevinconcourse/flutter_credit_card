@@ -15,14 +15,14 @@ class AppConstants {
   static const String fourX = 'XXXX';
   static const String sixteenX = 'XXXX XXXX XXXX XXXX';
   static const String cardNumberMask = '0000 0000 0000 0000';
-  static const String expiryDateMask = '00/00';
+  static const String expiryDateMask = '00/0000';
   static const String cvvMask = '0000';
   static const String cvv = 'CVV';
   static const String cardHolderCaps = 'CARD HOLDER';
   static const String cardHolder = 'Card Holder';
   static const String cardNumber = 'Card Number';
   static const String expiryDate = 'Expiry Date';
-  static const String expiryDateShort = 'MM/YY';
+  static const String expiryDateShort = 'MM/YYYY';
   static const String validThru = 'VALID\nTHRU';
   static const String cvvValidationMessage = 'Please input a valid CVV';
   static const String dateValidationMessage = 'Please input a valid date';
